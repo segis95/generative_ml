@@ -1,0 +1,8 @@
+wandb:
+    enabled: False
+    project: "GAN_TRAINING"
+    
+training:
+    epochs: 5
+    batch_size: 64
+    
