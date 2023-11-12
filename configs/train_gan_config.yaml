@@ -1,8 +1,17 @@
-wandb:
-    enabled: False
-    project: "GAN_TRAINING"
-    
+model:
+    hidden_space_size: 100
+
 training:
-    epochs: 5
-    batch_size: 64
+    generator_learning_rate: 0.0001
+    discriminator_learning_rate: 0.00003
+    epochs: 50
+    # number of real and fake images per batch, i.e. half of real batch size
+    batch_size: 32
+
+logging:
+    save_weights: True
+    wandb:
+        enabled: True
+        n_examples_per_epoch: 10
+        project: "GAN_TRAINING"
     
