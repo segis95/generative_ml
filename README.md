@@ -1,3 +1,6 @@
-# generative_ml
+# A classic GAN implementation
 
-https://wandb.ai/segis95/GAN_TRAINING/reports/GAN-Training--Vmlldzo1OTQ2Njc0
+## GAN generative capacity over training epochs
+
+![GAN Evolution](assets/GAN/gan_evolution.png)
+
