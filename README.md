@@ -7,3 +7,6 @@
 
 ![GAN Evolution](assets/GAN/gan_evolution.png)
 
+## GAN latent space walk examples
+
+![Random Walk #1](assets/GAN/gan_random_walk_1.gif)
