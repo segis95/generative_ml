@@ -1,4 +1,4 @@
-# A classic GAN implementation
+# A classic GAN implementation trained on MNIST
 
 ## GAN generation examples
 ![GAN Examples](assets/GAN/gan_examples.png)
