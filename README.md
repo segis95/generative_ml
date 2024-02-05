@@ -9,4 +9,4 @@
 
 ## GAN latent space walk examples
 
-![Random Walk #1](assets/GAN/gan_random_walk_1.gif)
+![Random Walk #1](assets/GAN/gan_random_walk_1.gif) ![Random Walk #2](assets/GAN/gan_random_walk_2.gif) ![Random Walk #3](assets/GAN/gan_random_walk_3.gif)
